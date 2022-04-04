@@ -1,20 +1,30 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 3,
+        "DropCatch.com 793 LLC": 1,
+        "Gname.com Pte. Ltd.": 1,
+        "GoDaddy.com, LLC": 5,
+        "Google LLC": 1,
         "NETHOUSE-RU": 1,
-        "NameCheap, Inc.": 1,
-        "NameSilo, LLC": 2,
+        "NameCheap, Inc.": 3,
+        "NameSilo, LLC": 3,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "RU-CENTER-RU": 1,
+        "URL Solutions, Inc.": 1,
         "West263 International Limited": 1,
-        "total": 9
+        "total": 19
     },
     "percentage": {
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "NETHOUSE-RU": 11.11111111111111,
-        "NameCheap, Inc.": 11.11111111111111,
-        "NameSilo, LLC": 22.22222222222222,
-        "RU-CENTER-RU": 11.11111111111111,
-        "West263 International Limited": 11.11111111111111,
-        "total": 100.0
+        "DropCatch.com 793 LLC": 5.2631578947368425,
+        "Gname.com Pte. Ltd.": 5.2631578947368425,
+        "GoDaddy.com, LLC": 26.31578947368421,
+        "Google LLC": 5.2631578947368425,
+        "NETHOUSE-RU": 5.2631578947368425,
+        "NameCheap, Inc.": 15.789473684210526,
+        "NameSilo, LLC": 15.789473684210526,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.2631578947368425,
+        "RU-CENTER-RU": 5.2631578947368425,
+        "URL Solutions, Inc.": 5.2631578947368425,
+        "West263 International Limited": 5.2631578947368425,
+        "total": 100.00000000000003
     }
 }
