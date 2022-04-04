@@ -1,0 +1,13 @@
+{
+    "currently_under_test": false,
+    "days_until_next_test": 5,
+    "name": "Wiggum27_Blockers",
+    "upstream_name": "blockers",
+    "pyfunceble": {
+        "config": {}
+    },
+    "raw_link": "https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts",
+    "description": "blockers",
+    "issue_link": "https://gitlab.com/Wiggum27/blockers/-/issues",
+    "home_link": "https://gitlab.com/Wiggum27/blockers/-/tree/master"
+}
