@@ -4377,3 +4377,15 @@ adserver.shadow.snapads.com                                                     
 adserver.shoofle.tv                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 adserver.sitesense.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 adserver.sl.kharkov.ua                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.snapads.com                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+adserver.snowball.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver.softonic.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adserver.softure.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+adserver.softwareonline.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserver.soloserver.com                                                                              ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver.spankaway.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver.spctl.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver.sprintdisk.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserver.spritmonitor.de                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adserver.staging.snapads.com                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserver.swiatobrazu.pl                                                                              ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
