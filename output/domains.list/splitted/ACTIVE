@@ -4407,3 +4407,7 @@ adserver.tweakers.net                                                           
 adserver.twitpic.com                                                                                 ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
 adserver.ubiyoo.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
 adserver.ugo.nl                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        204        AVAILABILITY 
+adserver.valuemd.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adserver.van.net                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+adserver.veruta.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver.viewbix.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
