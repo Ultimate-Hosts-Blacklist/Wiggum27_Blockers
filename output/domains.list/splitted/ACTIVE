@@ -4421,3 +4421,14 @@ adserver.wietforum.nl                                                           
 adserver.x3.hu                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
 adserver.xpanama.net                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
 adserver.yahoo.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.zeads.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver01.de                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver1-images.backbeatmedia.com                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver1.adbrands.co.il                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver1.backbeatmedia.com                                                                          ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+adserver1.hookyouup.com                                                                              ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver1.mediainsight.de                                                                            ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver1.mindshare.de                                                                               ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver1.sonymusiceurope.com                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver1.wmads.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver2.blueadvertise.com                                                                          ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
