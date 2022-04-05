@@ -4562,3 +4562,11 @@ adstats-shadow.snapads.com                                                      
 adstats.adviva.net                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 adstats.snapads.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 adstest.reklamstore.com                                                                              ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adstest.weather.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adstextview.qq.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adstil.indiatimes.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adstogo.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adstome.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adstrac.adk2x.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adstract.adk2x.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adstream.cardboardfish.com                                                                           ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
