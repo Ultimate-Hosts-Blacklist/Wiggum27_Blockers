@@ -1823,3 +1823,9 @@
 0.0.0.0 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
 0.0.0.0 adservers.selfserve.rubiconproject.com
 0.0.0.0 adservices.cmp.advertising.com
+0.0.0.0 adservices.google.com
+0.0.0.0 adservices.picadmedia.com
+0.0.0.0 adservicestats.com
+0.0.0.0 adserving.cpxinteractive.com
+0.0.0.0 adservingcentral.com
+0.0.0.0 adserwer.o2.pl

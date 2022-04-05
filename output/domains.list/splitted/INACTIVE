@@ -1830,3 +1830,9 @@ adserverb.conjelco.com                                                          
 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com                                             INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 adservers.selfserve.rubiconproject.com                                                               INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 adservices.cmp.advertising.com                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adservices.google.com                                                                                INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adservices.picadmedia.com                                                                            INACTIVE    COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adservicestats.com                                                                                   INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserving.cpxinteractive.com                                                                         INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adservingcentral.com                                                                                 INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserwer.o2.pl                                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
