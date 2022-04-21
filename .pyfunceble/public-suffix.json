@@ -1142,7 +1142,6 @@
         "from-nj.com",
         "from-nm.com",
         "from-nv.com",
-        "from-oh.com",
         "from-ok.com",
         "from-or.com",
         "from-pa.com",
@@ -7004,7 +7003,8 @@
     "online": [
         "barsy.online",
         "eero-stage.online",
-        "eero.online"
+        "eero.online",
+        "from-oh.com"
     ],
     "orange": [
         "tech.orange"
