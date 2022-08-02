@@ -509,6 +509,7 @@
         "b.br",
         "ba.gov.br",
         "ba.leg.br",
+        "barueri.br",
         "belem.br",
         "bhz.br",
         "bib.br",
@@ -889,7 +890,6 @@
     "cn": [
         "ac.cn",
         "ah.cn",
-        "barueri.br",
         "bj.cn",
         "cn-north-1.eb.amazonaws.com.cn",
         "cn-northwest-1.eb.amazonaws.com.cn",
