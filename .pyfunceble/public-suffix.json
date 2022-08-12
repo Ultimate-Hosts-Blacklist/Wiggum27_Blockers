@@ -174,6 +174,7 @@
         "fireweb.app",
         "framer.app",
         "hasura.app",
+        "lclstage.dev",
         "loginline.app",
         "messerli.app",
         "netlify.app",
@@ -1637,7 +1638,6 @@
         "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
-        "lclstage.dev",
         "loginline.dev",
         "mediatech.dev",
         "pages.dev",
@@ -5868,7 +5868,6 @@
         "fastlylb.net",
         "faststacks.net",
         "feste-ip.net",
-        "filegear-au.me",
         "firewall-gateway.net",
         "flynnhosting.net",
         "fr-1.paas.massivegrid.net",
@@ -8822,6 +8821,16 @@
         "орг.срб",
         "пр.срб",
         "упр.срб"
+    ],
+    "ישראל": [
+        "xn--4dbgdty6c.xn--4dbrk0ce",
+        "xn--5dbhl8d.xn--4dbrk0ce",
+        "xn--8dbq2a.xn--4dbrk0ce",
+        "xn--hebda8b.xn--4dbrk0ce",
+        "אקדמיה.ישראל",
+        "ישוב.ישראל",
+        "ממשל.ישראל",
+        "צהל.ישראל"
     ],
     "ไทย": [
         "xn--12c1fe0br.xn--o3cw4h",
