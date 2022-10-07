@@ -1105,6 +1105,7 @@
         "eu-west-3.elasticbeanstalk.com",
         "eu.com",
         "eu.meteorapp.com",
+        "eu.pythonanywhere.com",
         "familyds.com",
         "fastly-terrarium.com",
         "fastvps-server.com",
@@ -8781,10 +8782,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "eu.pythonanywhere.com",
-        "xn--c1avg.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
