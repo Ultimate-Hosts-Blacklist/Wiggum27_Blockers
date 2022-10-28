@@ -5094,3 +5094,4 @@ akamai.smartadserver.com                                                        
 akamai.t.axf8.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 akamai.vungle-cdn.vungle.com                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 akamaisan.qualtrics.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        307        AVAILABILITY 
+akamaisecure.qualtrics.com                                                                           ACTIVE      DNSLOOKUP  Unknown           307        AVAILABILITY 
