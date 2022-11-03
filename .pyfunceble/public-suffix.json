@@ -1691,6 +1691,7 @@
         "lclstage.dev",
         "loginline.dev",
         "mediatech.dev",
+        "musician.io",
         "pages.dev",
         "platter-app.dev",
         "shiftcrypto.dev",
@@ -1953,7 +1954,8 @@
         "edu.gh",
         "gov.gh",
         "mil.gh",
-        "org.gh"
+        "org.gh",
+        "org.hk"
     ],
     "gi": [
         "com.gi",
