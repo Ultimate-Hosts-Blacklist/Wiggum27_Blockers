@@ -1288,7 +1288,6 @@
         "mydrobo.com",
         "myiphost.com",
         "myqnapcloud.com",
-        "myravendb.com",
         "mysecuritycamera.com",
         "myshopblocks.com",
         "myshopify.com",
@@ -1691,7 +1690,6 @@
         "lclstage.dev",
         "loginline.dev",
         "mediatech.dev",
-        "musician.io",
         "pages.dev",
         "platter-app.dev",
         "shiftcrypto.dev",
@@ -1954,8 +1952,7 @@
         "edu.gh",
         "gov.gh",
         "mil.gh",
-        "org.gh",
-        "org.hk"
+        "org.gh"
     ],
     "gi": [
         "com.gi",
