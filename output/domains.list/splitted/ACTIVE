@@ -3520,3 +3520,70 @@ adserv.mako.co.il                                                               
 adserv.net                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
 adserv001.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
 adserv002.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv003.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv004.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv005.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv006.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv007.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserv008.adtech.fr                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserve.adtoll.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserve.ams.rhythmxchange.com                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserve.donanimhaber.com                                                                             ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserve.doteasy.com                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        403        AVAILABILITY 
+adserve.gossipgirls.com                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserve.kikizo.com                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserve.podaddies.com                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserve.postrelease.com                                                                              ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserve.viaarena.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+adserver-2.ig.com.br                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-4.ig.com.br                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-5.ig.com.br                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-as.adtech.advertising.com                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-dpfrr.adtech.de                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-e7.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-east.adtechus.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-east.extend.tv                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-eu.adtech.advertising.com                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-nbfrr.adtech.de                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-qcamt.adtech.de                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-qcfrr.adtech.de                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-qcmtc.adtechus.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-qcscd.adtechus.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-us.adtech.advertising.com                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver-west.adtechus.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.100free.com                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.383media.net                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.4clicks.org                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.71i.de                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.adreactor.com                                                                               ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver.adremedy.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        410        AVAILABILITY 
+adserver.ads360.com                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.adswizz.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.adtech.de                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        204        AVAILABILITY 
+adserver.adtech.fr                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.adtechjp.com                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        204        AVAILABILITY 
+adserver.adtechus.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        204        AVAILABILITY 
+adserver.adultfriendfinder.com                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserver.advertisingbox.com                                                                          ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.advertist.com                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.affiliatemg.com                                                                             ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.alt.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver.b2c.com                                                                                     ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.bing.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adserver.bizhat.com                                                                                  ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.bloodhorse.com                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.bluereactor.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        410        AVAILABILITY 
+adserver.bondage.com                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.cams.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserver.chickclick.com                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.co.il                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver.creative-asia.com                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.creativeads.ro                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.creativeinspire.com                                                                         ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.dayrates.com                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.dbusiness.com                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.developersnetwork.com                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.digitoday.com                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.directforce.com                                                                             ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.directworksmedia.com                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
