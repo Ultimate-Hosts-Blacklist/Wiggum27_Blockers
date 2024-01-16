@@ -3614,3 +3614,44 @@ adserver.livejournal.com                                                        
 adserver.magazyn.pl                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
 adserver.matchcraft.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
 adserver.millionairemate.com                                                                         ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.moitepari.bg                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.mrnetworks.de                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.netcollins.com                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.netcreators.nl                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.o2.pl                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.online-tech.com                                                                             ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.onwisconsin.com                                                                             ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.openx.co.za                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.outpersonals.com                                                                            ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.pandora.com                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        403        AVAILABILITY 
+adserver.passion.com                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.phatmax.net                                                                                 ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.pl                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver.plastikcity.com                                                                             ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.portal.pl                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.pressboard.ca                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.pressflex.com                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.radiomediagroup.org                                                                         ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.rankedbyreview.com                                                                          ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.reklamstore.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserver.ro                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserver.rtvutrechtreclame.nl                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.sandbox.cxad.cxense.com                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserver.sciflicks.com                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adserver.seniorfriendfinder.com                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.sextracker.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserver.shadow.snapads.com                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.shoofle.tv                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserver.snapads.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.softonic.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adserver.softure.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserver.softwareonline.com                                                                          ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.soloserver.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+adserver.spctl.com                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.spritmonitor.de                                                                             ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserver.staging.snapads.com                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adserver.swiatobrazu.pl                                                                              ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserver.tappsgames.com                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        403        AVAILABILITY 
+adserver.tele.net                                                                                    ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.terra.com.br                                                                                ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adserver.theappgrader.com                                                                            ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
