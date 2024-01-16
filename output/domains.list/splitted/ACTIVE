@@ -3677,3 +3677,52 @@ adserver2.blueadvertise.com                                                     
 adserver2.creative.com                                                                               ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
 adserver2.mediainsight.de                                                                            ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
 adserver9.contextad.com                                                                              ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adserverams.adtech.de                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        204        AVAILABILITY 
+adserverc.shoofle.tv                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserverec.adtechus.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        204        AVAILABILITY 
+adserverplus.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adserverpub.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adserversolutions.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adserverus.info                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adserverwc.adtechus.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        204        AVAILABILITY 
+adservice.aliexpress.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown                        500        AVAILABILITY 
+adservice.google.be                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adservice.google.ca                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adservice.google.co.in                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adservice.google.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adservice.google.com.au                                                                              ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
+adservice.google.nl                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserving.favorit-network.com                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserving.muppetism.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adserving.unibet.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        307        AVAILABILITY 
+adserving03.epi.es                                                                                   ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adservinginternational.com                                                                           ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adservone.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adserwer.afilo.pl                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adseu.novem.pl                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adsfac.eu                                                                                            ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adsfac.net                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+adsfac.us                                                                                            ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adsfile.qq.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
+adsflame.com                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adsgangsta.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adsgen.bangbros.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adsgroup.qq.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adsharenetwork.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adsheads.go2affise.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adshmct.qq.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adshmmsg.qq.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adshow.it168.com                                                                                     ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adside.com                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+adsinimages.com                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adskape.ru                                                                                           ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adsklick.de                                                                                          ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+adslvfile.qq.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+adslvseed.qq.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adsm.gameforge.de                                                                                    ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adsm.soush.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+adsmarket.com                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+adsmart.co.uk                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+adsmart.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
+adsmart.net                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+adsmogo.com                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
